@@ -1,0 +1,48 @@
+.none {
+    display: none;
+}
+
+.background {
+    height: 448px;
+    display: flex;
+    align-items: center;
+    background-color: turquoise; /*buat ngetest background*/
+}
+
+#insert-song {
+    background-color: rgba(20,18,30); /* WARNA SEMENTARA */
+}
+
+.link-song {
+    color: inherit;
+    text-decoration: none;
+    cursor: default;
+}
+
+.link-song:hover,:active,:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+#song-play {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    cursor: default;
+}
+
+.song-h5 {
+    display: flex;
+    align-items: center;
+}
+
+#button,
+#forward {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+svg {
+    font-size: 40px;
+}
