@@ -2,56 +2,109 @@
     {
         "Singer" : "Future",
         "Tittle" : "Mask Off",
-        "Path" : "https://www.mboxdrive.com/Future-Mask-Off.mp3"
+        "Path" : "https://www.mboxdrive.com/Future-Mask-Off.mp3",
+        "Genre" : "Trap"
     },
     {
         "Singer" : "Gustixa",
         "Tittle" : "Lemon Tree [REMIX]",
-        "Path" : "https://www.mboxdrive.com/Gustixa-lemon-tree.mp3"
+        "Path" : "https://www.mboxdrive.com/Gustixa-lemon-tree.mp3",
+        "Genre" : "Lofi"
     },
     {
         "Singer" : "Drake",
         "Tittle" : "Blue Tint",
-        "Path" : "https://www.mboxdrive.com/Blue-Tint.mp3"
+        "Path" : "https://www.mboxdrive.com/Blue-Tint.mp3",
+        "Genre" : "Trap"
     },
     {
         "Singer" : "Travis Scoot",
         "Tittle" : "Goosebumps",
-        "Path" : "https://www.mboxdrive.com/Travis-Scott-goosebumps-ft-Kendr.mp3"
+        "Path" : "https://www.mboxdrive.com/Travis-Scott-goosebumps-ft-Kendr.mp3",
+        "Genre" : "Trap"
     },
     {
         "Singer" : "Porter Robinson",
         "Tittle" : "Goodbye to a World [Lo-Fi]",
-        "Path" : "https://www.mboxdrive.com/goodbye-to-a-world-but-its-lofi.mp3"
+        "Path" : "https://www.mboxdrive.com/goodbye-to-a-world-but-its-lofi.mp3",
+        "Genre" : "Lofi"
     },
     {
         "Singer" : "Travis Scoot",
         "Tittle" : "BUTTERFLY EFFECT",
-        "Path" : "https://www.mboxdrive.com/Travis%20Scott%20-%20Butterfly%20Effect%20(audio).mp3"
+        "Path" : "https://www.mboxdrive.com/Travis%20Scott%20-%20Butterfly%20Effect%20(audio).mp3",
+        "Genre" : "Trap"
     },
     {
         "Singer" : "24kGoldn",
         "Tittle" : "Mood",
-        "Path" : "https://www.mboxdrive.com/24kGoldn-Mood-Official-Audio-ft.mp3"
+        "Path" : "https://www.mboxdrive.com/24kGoldn-Mood-Official-Audio-ft.mp3",
+        "Genre" : "Pop"
     },
     {
         "Singer" : "Akon",
         "Tittle" : "Lonely",
-        "Path" : "https://www.mboxdrive.com/Lonely.mp3"
+        "Path" : "https://www.mboxdrive.com/Lonely.mp3",
+        "Genre" : "R&B"
     },
     {
         "Singer" : "John Denver",
         "Tittle" : "Take Me Home, Country Roads",
-        "Path" : "https://www.mboxdrive.com/John-Denver-Take-Me-Home-Country.mp3"
+        "Path" : "https://www.mboxdrive.com/John-Denver-Take-Me-Home-Country.mp3",
+        "Genre" : "Country"
     },
     {
         "Singer" : "Powfu",
         "Tittle" : "death bed",
-        "Path" : "https://www.mboxdrive.com/Powfu-death-bed.mp3"
+        "Path" : "https://www.mboxdrive.com/Powfu-death-bed.mp3",
+        "Genre" : "Lofi"
     },
     {
         "Singer" : "$atori Zoom",
         "Tittle" : "Buster",
-        "Path" : "https://www.mboxdrive.com/Buster-Satori-Zoom.mp3"
+        "Path" : "https://www.mboxdrive.com/Buster-Satori-Zoom.mp3",
+        "Genre" : "Trap"
+    },
+    {
+        "Singer" :"Travis Scoot",
+        "Tittle" : "Out West",
+        "Path" : "https://www.mboxdrive.com/JACKBOYS-Travis-Scott-OUT-WEST-A.mp3",
+        "Genre" : "Trap"
+    },
+    {
+        "Singer" : "Owl City",
+        "Tittle" : "Fireflies",
+        "Path" : "https://www.mboxdrive.com/Owl-city-Fireflies.mp3",
+        "Genre" : "Pop"
+    },
+    {
+        "Singer" : "",
+        "Tittle" : "Sunflower prod Jody",
+        "Path" : "https://www.mboxdrive.com/Sunflower-prod-Jody.mp3",
+        "Genre" : "Lofi"
+    },
+    {
+        "Singer" : "Peach Tree Pascal",
+        "Tittle" : "Mariposa",
+        "Path" : "https://www.mboxdrive.com/Peach-Tree-Rascals-Mariposa-Lyri.mp3",
+        "Genre" : "Pop"
+    },
+    {
+        "Singer" : "Gryffin ft Maia Wright",
+        "Tittle" : "Body Back",
+        "Path" : "https://www.mboxdrive.com/Gryffin-Body-Back-Official-Audio.mp3",
+        "Genre" : "Dance"
+    },
+    {
+        "Singer" : "The Weeknd, Kendrick Lamar",
+        "Tittle" : "Pray For Me",
+        "Path" : "https://www.mboxdrive.com/The-Weeknd-Kendrick-Lamar-Pray-F.mp3",
+        "Genre" : "Trap"
+    },
+    {
+        "Singer" : "The Weeknd",
+        "Tittle" : "The Hills",
+        "Path" : "https://www.mboxdrive.com/The-Hills.mp3",
+        "Genre" : "Trap"
     }
 ]
