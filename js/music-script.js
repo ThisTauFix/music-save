@@ -15,7 +15,7 @@ dataSong('json/music-data.json')
               data.forEach(s => {
                 const playlistFill = `<a href="${s.Path}" class="link-song">
                                                  <div class="song row text-light">
-                                                        <div class="song-description col-md-9 col-sm-6 col-3">
+                                                        <div class="song-description">
                                                                <div class="align-self-start"><h5 class="song-tittle">${s.Tittle}</h5></div>
                                                                <div class="align-self-end"><p><small>${s.Singer}</small></p></div>
                                                         </div>
