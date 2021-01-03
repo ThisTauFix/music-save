@@ -1,16 +1,69 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
 .none {
     display: none;
 }
 
-.background {
-    height: 448px;
-    display: flex;
-    align-items: center;
-    background-color: turquoise; /*buat ngetest background*/
+body {
+    cursor: default;
 }
 
-#insert-song {
-    background-color: rgba(20,18,30); /* WARNA SEMENTARA */
+.main {
+    height: 100%;
+    background: rgba(20,18,30);
+}
+
+.background {
+    height: 504px;
+    display: flex;
+    align-items: center;
+}
+
+.category {
+    display: flex;
+    align-items: center;
+    /* Div shape & size */
+    height: 40px;
+    width: 100%;
+    /* border */
+    border-bottom: .2px solid #fff ;
+    border-width: thin;
+}
+
+.up {
+    width: 100%;
+    height: 40px;
+}
+
+.background,
+.up {
+    /* bg color */
+    background: hsla(339, 100%, 55%, 1);
+    background: linear-gradient(90deg, hsla(339, 100%, 55%, 1) 0%, hsla(197, 100%, 64%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(339, 100%, 55%, 1) 0%, hsla(197, 100%, 64%, 1) 100%);
+    /* background: -webkit-linear-gradient(90deg, hsla(339, 100%, 55%, 1) 0%, hsla(197, 100%, 64%, 1) 100%); */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF1B6B", endColorstr="#45CAFF", GradientType=1 );
+}
+
+a.category {
+    color: inherit;
+    text-decoration: none;
+    cursor: default;
+}
+
+a.category:hover,:active,:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+#songs,
+.list,
+.category {
+    background-color: rgba(20,18,30);
 }
 
 .link-song {
@@ -25,13 +78,14 @@
 }
 
 #song-play {
-    position: sticky;
+    position: fixed; /*kalo lagunya udh byk ganti sticky*/
     bottom: 0;
     width: 100%;
     cursor: default;
 }
 
-.song-h5 {
+.song-h5,
+.up {
     display: flex;
     align-items: center;
 }
