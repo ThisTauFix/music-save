@@ -3,108 +3,144 @@
         "Singer" : "Future",
         "Tittle" : "Mask Off",
         "Path" : "https://www.mboxdrive.com/Future-Mask-Off.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Hip-Hop", "Trap"]
     },
     {
         "Singer" : "Gustixa",
         "Tittle" : "Lemon Tree [REMIX]",
         "Path" : "https://www.mboxdrive.com/Gustixa-lemon-tree.mp3",
-        "Genre" : "Lofi"
+        "Genre" : ["Lofi", "Downtempo"]
     },
     {
         "Singer" : "Drake",
         "Tittle" : "Blue Tint",
         "Path" : "https://www.mboxdrive.com/Blue-Tint.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Hip-Hop", "Rap"]
     },
     {
         "Singer" : "Travis Scoot",
         "Tittle" : "Goosebumps",
         "Path" : "https://www.mboxdrive.com/Travis-Scott-goosebumps-ft-Kendr.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Hip-Hop", "Rap"]
     },
     {
         "Singer" : "Porter Robinson",
         "Tittle" : "Goodbye to a World [Lo-Fi]",
         "Path" : "https://www.mboxdrive.com/goodbye-to-a-world-but-its-lofi.mp3",
-        "Genre" : "Lofi"
+        "Genre" : ["Lofi", "Dance", "Electric"]
     },
     {
         "Singer" : "Travis Scoot",
         "Tittle" : "BUTTERFLY EFFECT",
         "Path" : "https://www.mboxdrive.com/Travis%20Scott%20-%20Butterfly%20Effect%20(audio).mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Rap", "Hip-Hop", "Trap"]
     },
     {
         "Singer" : "24kGoldn",
         "Tittle" : "Mood",
         "Path" : "https://www.mboxdrive.com/24kGoldn-Mood-Official-Audio-ft.mp3",
-        "Genre" : "Pop"
+        "Genre" : ["Pop", "Hip-Hop"]
     },
     {
         "Singer" : "Akon",
         "Tittle" : "Lonely",
         "Path" : "https://www.mboxdrive.com/Lonely.mp3",
-        "Genre" : "R&B"
+        "Genre" : ["R&B", "Hip-Hop"]
     },
     {
         "Singer" : "John Denver",
         "Tittle" : "Take Me Home, Country Roads",
         "Path" : "https://www.mboxdrive.com/John-Denver-Take-Me-Home-Country.mp3",
-        "Genre" : "Country"
+        "Genre" : ["Country"]
     },
     {
         "Singer" : "Powfu",
         "Tittle" : "death bed",
         "Path" : "https://www.mboxdrive.com/Powfu-death-bed.mp3",
-        "Genre" : "Lofi"
+        "Genre" : ["Hip-Hop", "Lofi"]
     },
     {
         "Singer" : "$atori Zoom",
         "Tittle" : "Buster",
         "Path" : "https://www.mboxdrive.com/Buster-Satori-Zoom.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Hip-Hop", "Rap"]
     },
     {
         "Singer" :"Travis Scoot",
         "Tittle" : "Out West",
         "Path" : "https://www.mboxdrive.com/JACKBOYS-Travis-Scott-OUT-WEST-A.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Hip-Hop", "Rap"]
     },
     {
         "Singer" : "Owl City",
         "Tittle" : "Fireflies",
         "Path" : "https://www.mboxdrive.com/Owl-city-Fireflies.mp3",
-        "Genre" : "Pop"
+        "Genre" : ["Pop"]
     },
     {
-        "Singer" : "Unknown",
+        "Singer" : "",
         "Tittle" : "Sunflower prod Jody",
         "Path" : "https://www.mboxdrive.com/Sunflower-prod-Jody.mp3",
-        "Genre" : "Lofi"
+        "Genre" : ["Lofi"]
     },
     {
         "Singer" : "Peach Tree Pascal",
         "Tittle" : "Mariposa",
         "Path" : "https://www.mboxdrive.com/Peach-Tree-Rascals-Mariposa-Lyri.mp3",
-        "Genre" : "Pop"
+        "Genre" : ["Indie", "Pop"]
     },
     {
         "Singer" : "Gryffin ft Maia Wright",
         "Tittle" : "Body Back",
         "Path" : "https://www.mboxdrive.com/Gryffin-Body-Back-Official-Audio.mp3",
-        "Genre" : "Dance"
+        "Genre" : ["Electric"]
     },
     {
         "Singer" : "The Weeknd, Kendrick Lamar",
         "Tittle" : "Pray For Me",
         "Path" : "https://www.mboxdrive.com/The-Weeknd-Kendrick-Lamar-Pray-F.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Hip-Hop", "Rap"]
     },
     {
         "Singer" : "The Weeknd",
         "Tittle" : "The Hills",
         "Path" : "https://www.mboxdrive.com/The-Hills.mp3",
-        "Genre" : "Trap"
+        "Genre" : ["Trap", "Pop", "R&B"]
+    },
+    {
+        "Singer" : "Fourtwnty",
+        "Tittle" : "Kusut [Lo-Fi]",
+        "Path" : "https://www.mboxdrive.com/kusut.mp3",
+        "Genre" : ["Lofi", "Indie"]
+    },
+    {
+        "Singer" : "Kehlani & G-Eazy",
+        "Tittle" : "Good Life",
+        "Path" : "https://www.mboxdrive.com/goodlife.mp3",
+        "Genre" : ["Pop", "Rap"]
+    },
+    {
+        "Singer" : "Skinnyfabs",
+        "Tittle" : "Happy",
+        "Path" : "https://www.mboxdrive.com/happy.mp3",
+        "Genre" : ["Pop"]
+    },
+    {
+        "Singer" : "Mixed Matches",
+        "Tittle" : "Soul",
+        "Path" : "https://www.mboxdrive.com/Soul.mp3",
+        "Genre" : ["Lofi", "Pop"]
+    },
+    {
+        "Singer" : "John Denver",
+        "Tittle" : "Leaving on the Jet Plane [Lo-Fi]",
+        "Path" : "https://www.mboxdrive.com/Leaving-on-a-jetplane-lofi-Lyric.mp3",
+        "Genre" : ["Lofi"]
+    },
+    {
+        "Singer" : "Justin Bieber",
+        "Tittle" : "Yummy",
+        "Path" : "https://www.mboxdrive.com/yummy.mp3",
+        "Genre" : ["Pop"]
     }
 ]
